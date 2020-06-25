@@ -1,22 +1,22 @@
-﻿OfficeGeoKey,Office,OfficeAddress,Country,StateName,State,City,PostalCode,OfficeType,
-United StatesGA,"Atlanta, GA","1 Glenlake Parkway, Atlanta, GA 30328",United States,Georgia,GA,Atlanta,30328,Office,"Atlanta, GA (Office)"
-Switzerland,"Basel, CH","Dornacherstrasse 210, Basel, BS 4053",Switzerland,,BS,Basel,4053,Office,"Basel, CH (Office)"
-United StatesMASuffolk,"Boston, MA","101 Station Landing, Suite 210, Medford, MA 02155",United States,Massachussets,MA,Medford,2155,Office,"Boston, MA (Office)"
-United StatesTXDallas,"Dallas, TX","6565 N MacArthur Blvd, Suite 1050, Irving, TX 75039",United States,Texas,TX,Irving,75039,Office,"Dallas, TX (Office)"
-United StatesCO,"Denver, CO","11101 West 120th Avenue, Suite 160, Broomfield, CO 80021",United States,Colorado,CO,Broomfield,80021,Office,"Denver, CO (Office)"
-United StatesMI,"Kalamazoo, MI","5250 Lovers Lane, Suite 130, Kalamazoo, MI 49002",United States,Michigan,MI,Kalamazoo,49002,Office,"Kalamazoo, MI (Office)"
-United StatesMO,"Kansas City, MO","1251 NW Briarcliff Parkway, Suite 500, Kansas City, MO 64116",United States,Missouri,MO,Kansas City,64116,Office,"Kansas City, MO (Office)"
-United StatesCALos Angeles,"Los Angeles, CA","100 North Pacific Coast Highway, Suite 600, El Segundo, CA 90245",United States,California,CA,El Segundo,90245,Office,"Los Angeles, CA (Office)"
-United StatesWI,"Marshfield, WI","309 East 29th Street, Marshfield, WI 54449",United States,Wisconsin,WI,Marshfield,54449,Office,"Marshfield, WI (Office)"
-United StatesCAAlameda,"Oakland, CA","6001 Shellmound St, Emeryville, CA 94608",United States,California,CA,Emeryville,94608,Office,"Oakland, CA (Office)"
-United StatesNE,"Omaha, NE","1010 S. 120th Street, Suite 120, Omaha, Nebraska 68154",United States,Nebraska,NE,Omaha,68154,Office,"Omaha, NE (Office)"
-United StatesCAOrange,"Orange County, CA","14661 Franklin Avenue, Suite 125, Tustin, CA 92780",United States,California,CA,Gardena,90248,Office,"Orange County, CA (Office)"
-United StatesPAPhiladelphia,"Philadelphia, PA",,United States,Pennsylvania,PA,Philadelphia,,Office,"Philadelphia, PA (Office)"
-United StatesPAPhiladelphia,"Plymouth Meeting, PA","220 West Germantown Pike, Suite 170, Plymouth Meeting, PA 19462",United States,Pennsylvania,PA,Plymouth Meeting,19462,Office,"Plymouth Meeting, PA (Office)"
-United StatesNC,"Raleigh, NC","1255 Crescent Green, Suite 350, Cary, NC 27518",United States,North Carolina,NC,Cary,27518,Office,"Raleigh, NC (Office)"
-United StatesMD,"Rockville, MD","1801 Research Boulevard, Suite 620, Rockville, MD 20850",United States,Maryland,MD,Rockville,20850,Office,"Rockville, MD (Office)"
-United StatesCASan Diego,"San Diego, CA","3207 Grey Hawk Court, Suite 150, Carlsbad, CA 92010",United States,California,CA,Carlsbad,92010,Office,"San Diego, CA (Office)"
-United StatesPR,"San Juan, PR","1738 Amarillo Street , Suite 314, San Juan, PR 00926",United States,Puerto Rico,PR,San Juan,00926,Office,"San Juan, PR (Office)"
-United StatesMO,"St. Louis, MO","701 Emerson Road, Suite 500, St. Louis, MO 63141",United States,Missouri,MO,St. Louis,63141,Office,"St. Louis, MO (Office)"
-Germany,"Stuttgart, DE","Stuttgarter Strasse 41/1, Ditzingen,  71254",Germany,,,Ditzingen,71254,Office,"Stuttgart, DE (Office)"
-CanadaON,"Toronto, CA","100 King Street West, Ste 6200, Toronto, ON M5X 1B8",Canada,Ontario,ON,Toronto,M5X 1B8,Office,"Toronto, CA (Office)"
+﻿OfficeGeoKey,Office,OfficeAddress,Country,StateName,State,City,PostalCode,OfficeType,R Test
+United StatesGA,"Atlanta, GA","1 Glenlake Parkway, Atlanta, GA 30328",United States,Georgia,GA,Atlanta,30328,Office,1
+Switzerland,"Basel, CH","Dornacherstrasse 210, Basel, BS 4053",Switzerland,,BS,Basel,4053,Office,1
+United StatesMASuffolk,"Boston, MA","101 Station Landing, Suite 210, Medford, MA 02155",United States,Massachussets,MA,Medford,2155,Office,1
+United StatesTXDallas,"Dallas, TX","6565 N MacArthur Blvd, Suite 1050, Irving, TX 75039",United States,Texas,TX,Irving,75039,Office,1
+United StatesCO,"Denver, CO","11101 West 120th Avenue, Suite 160, Broomfield, CO 80021",United States,Colorado,CO,Broomfield,80021,Office,2
+United StatesMI,"Kalamazoo, MI","5250 Lovers Lane, Suite 130, Kalamazoo, MI 49002",United States,Michigan,MI,Kalamazoo,49002,Office,1
+United StatesMO,"Kansas City, MO","1251 NW Briarcliff Parkway, Suite 500, Kansas City, MO 64116",United States,Missouri,MO,Kansas City,64116,Office,1
+United StatesCALos Angeles,"Los Angeles, CA","100 North Pacific Coast Highway, Suite 600, El Segundo, CA 90245",United States,California,CA,El Segundo,90245,Office,1
+United StatesWI,"Marshfield, WI","309 East 29th Street, Marshfield, WI 54449",United States,Wisconsin,WI,Marshfield,54449,Office,1
+United StatesCAAlameda,"Oakland, CA","6001 Shellmound St, Emeryville, CA 94608",United States,California,CA,Emeryville,94608,Office,1
+United StatesNE,"Omaha, NE","1010 S. 120th Street, Suite 120, Omaha, Nebraska 68154",United States,Nebraska,NE,Omaha,68154,Office,1
+United StatesCAOrange,"Orange County, CA","14661 Franklin Avenue, Suite 125, Tustin, CA 92780",United States,California,CA,Gardena,90248,Office,1
+United StatesPAPhiladelphia,"Philadelphia, PA",,United States,Pennsylvania,PA,Philadelphia,,Office,1
+United StatesPAPhiladelphia,"Plymouth Meeting, PA","220 West Germantown Pike, Suite 170, Plymouth Meeting, PA 19462",United States,Pennsylvania,PA,Plymouth Meeting,19462,Office,1
+United StatesNC,"Raleigh, NC","1255 Crescent Green, Suite 350, Cary, NC 27518",United States,North Carolina,NC,Cary,27518,Office,1
+United StatesMD,"Rockville, MD","1801 Research Boulevard, Suite 620, Rockville, MD 20850",United States,Maryland,MD,Rockville,20850,Office,1
+United StatesCASan Diego,"San Diego, CA","3207 Grey Hawk Court, Suite 150, Carlsbad, CA 92010",United States,California,CA,Carlsbad,92010,Office,1
+United StatesPR,"San Juan, PR","1738 Amarillo Street , Suite 314, San Juan, PR 00926",United States,Puerto Rico,PR,San Juan,926,Office,1
+United StatesMO,"St. Louis, MO","701 Emerson Road, Suite 500, St. Louis, MO 63141",United States,Missouri,MO,St. Louis,63141,Office,1
+Germany,"Stuttgart, DE","Stuttgarter Strasse 41/1, Ditzingen,  71254",Germany,,,Ditzingen,71254,Office,1
+CanadaON,"Toronto, CA","100 King Street West, Ste 6200, Toronto, ON M5X 1B8",Canada,Ontario,ON,Toronto,M5X 1B8,Office,1
